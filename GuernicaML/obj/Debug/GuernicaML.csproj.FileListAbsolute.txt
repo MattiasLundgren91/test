@@ -1,0 +1,15 @@
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\bin\Debug\GuernicaML.exe.config
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\bin\Debug\GuernicaML.exe
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\bin\Debug\GuernicaML.pdb
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.csprojResolveAssemblyReference.cache
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\MainWindow.g.cs
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\App.g.cs
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML_MarkupCompile.cache
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML_MarkupCompile.lref
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\MainWindow.baml
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.g.resources
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.Properties.Resources.resources
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.csproj.GenerateResource.Cache
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.csproj.CoreCompileInputs.cache
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.exe
+C:\Users\Lundgren\Desktop\GuernicaML\GuernicaML\obj\Debug\GuernicaML.pdb
